@@ -20,7 +20,8 @@ changes were made:
 ```WCOAuth2Session>>#getUserData
 WCOAuth2Session>>#handleTokenRefresh (unused, I think)
 WCOAuth2Session>>#authenticationUrlWithState: 
-...more...```
+...more...
+```
 
 Perhaps instead of WebUtils, I could have used Seaside's own JSON parsing. 
 No matter.  It works.
