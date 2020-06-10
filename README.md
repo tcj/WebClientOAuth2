@@ -1,7 +1,8 @@
 # WebClientOAuth2
-OAuth2 components for Squeak's WebClient, roughly ported from Zinc-SSO in 2019.
+OAuth2 components for Squeak's WebClient, roughly ported from
+[Zinc-SSO](https://github.com/svenvc/docs/blob/master/zinc/zinc-sso-paper.md) in 2019.
 
-See [Zinc on GitHub](https://github.com/svenvc/zinc)
+See [Zinc on GitHub](https://github.com/svenvc/zinc) and [Zinc homepage](http://zn.stfx.eu).
 
 ## History 
 
