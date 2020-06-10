@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"key:secret:" : "tcj 4/5/2019 16:24",
+		"key:secret:redirectUrl:" : "tcj 4/5/2019 16:24" },
+	"instance" : {
+		"key" : "tcj 4/5/2019 16:24",
+		"key:" : "tcj 4/5/2019 16:24",
+		"redirectUrl" : "tcj 4/5/2019 16:24",
+		"redirectUrl:" : "tcj 4/5/2019 16:24",
+		"secret" : "tcj 4/5/2019 16:24",
+		"secret:" : "tcj 4/5/2019 16:24",
+		"setKey:andSecret:" : "tcj 4/5/2019 16:25",
+		"setKey:andSecret:andRedirectUrl:" : "tcj 4/5/2019 16:25" } }

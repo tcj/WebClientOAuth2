@@ -1,0 +1,14 @@
+{
+	"category" : "WebClientOAuth2-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OAuth2GoogleConfiguration",
+	"pools" : [
+		 ],
+	"super" : "WASystemConfiguration",
+	"type" : "normal" }

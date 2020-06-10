@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"fromFileNamed:" : "tcj 4/11/2019 17:07",
+		"newFromFileNamed:" : "tcj 4/11/2019 16:08" },
+	"instance" : {
+		"asConsumerData" : "tcj 6/10/2020 04:48",
+		"authUri" : "tcj 4/11/2019 16:10",
+		"clientId" : "tcj 4/11/2019 16:09",
+		"clientSecret" : "tcj 4/11/2019 16:09",
+		"filename" : "tcj 4/11/2019 16:14",
+		"filename:" : "tcj 4/11/2019 16:14",
+		"firstRedirectUri" : "tcj 4/11/2019 16:11",
+		"initialize" : "tcj 4/11/2019 16:16",
+		"projectId" : "tcj 4/11/2019 16:10",
+		"readFile" : "tcj 4/11/2019 16:08",
+		"redirectUris" : "tcj 4/11/2019 16:11",
+		"secrets" : "tcj 4/11/2019 16:14",
+		"secrets:" : "tcj 4/11/2019 16:14",
+		"tokenUri" : "tcj 4/11/2019 16:11" } }

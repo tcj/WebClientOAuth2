@@ -1,0 +1,15 @@
+{
+	"category" : "WebClientOAuth2-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"oauthSession",
+		"userData" ],
+	"name" : "WCSSOGoogleOAuth2Panel",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

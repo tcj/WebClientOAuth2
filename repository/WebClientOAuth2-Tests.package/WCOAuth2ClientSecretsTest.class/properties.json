@@ -1,0 +1,14 @@
+{
+	"category" : "WebClientOAuth2-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cs" ],
+	"name" : "WCOAuth2ClientSecretsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

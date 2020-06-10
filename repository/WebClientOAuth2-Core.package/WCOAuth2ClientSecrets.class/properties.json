@@ -1,0 +1,15 @@
+{
+	"category" : "WebClientOAuth2-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filename",
+		"secrets" ],
+	"name" : "WCOAuth2ClientSecrets",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

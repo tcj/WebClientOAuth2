@@ -1,0 +1,19 @@
+{
+	"category" : "WebClientOAuth2-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"consumerData",
+		"redirectUrl",
+		"scopes",
+		"accessToken",
+		"tokenType",
+		"refreshToken" ],
+	"name" : "WCOAuth2Session",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

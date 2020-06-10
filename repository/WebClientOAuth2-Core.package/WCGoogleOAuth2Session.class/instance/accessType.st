@@ -1,0 +1,4 @@
+accessing
+accessType
+
+	^ accessType

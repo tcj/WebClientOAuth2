@@ -1,0 +1,5 @@
+initialize-release
+readFile
+	| stream |
+	stream := FileStream oldFileNamed: self filename.
+	[ secrets := (WebUtils jsonDecode: stream) at: 'web' ] ensure: [ stream close ].

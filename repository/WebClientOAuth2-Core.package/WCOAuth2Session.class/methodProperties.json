@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"google:" : "tcj 6/10/2020 04:43",
+		"ssoScopes" : "tcj 4/5/2019 16:25" },
+	"instance" : {
+		"accessToken" : "tcj 4/5/2019 16:26",
+		"accessToken:" : "tcj 4/5/2019 16:26",
+		"addScope:" : "tcj 4/5/2019 16:26",
+		"authenticationUrl" : "tcj 4/5/2019 16:27",
+		"consumerData" : "tcj 4/5/2019 16:26",
+		"consumerData:" : "tcj 4/5/2019 16:26",
+		"fieldDictionaryFrom:" : "tcj 4/5/2019 16:27",
+		"handleAuthenticationCallback:" : "tcj 4/5/2019 16:28",
+		"initialize" : "tcj 4/5/2019 16:27",
+		"redirectUrl" : "tcj 4/5/2019 16:26",
+		"redirectUrl:" : "tcj 4/5/2019 16:26",
+		"refreshToken" : "tcj 4/5/2019 16:26",
+		"refreshToken:" : "tcj 4/5/2019 16:26",
+		"scopeParameter" : "tcj 4/5/2019 16:27",
+		"scopes" : "tcj 4/5/2019 16:26",
+		"scopes:" : "tcj 4/5/2019 16:26",
+		"setConsumerData:" : "tcj 4/5/2019 16:27",
+		"tokenType" : "tcj 4/5/2019 16:26",
+		"tokenType:" : "tcj 4/5/2019 16:26" } }

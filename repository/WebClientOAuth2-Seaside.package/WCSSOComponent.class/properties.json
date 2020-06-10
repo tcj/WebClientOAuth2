@@ -1,0 +1,14 @@
+{
+	"category" : "WebClientOAuth2-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"responsePanel" ],
+	"name" : "WCSSOComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

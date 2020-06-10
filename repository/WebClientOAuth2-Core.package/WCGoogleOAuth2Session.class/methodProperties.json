@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"scopeUserinfoEmail" : "tcj 4/5/2019 16:23",
+		"scopeUserinfoProfile" : "tcj 4/5/2019 16:23",
+		"ssoScopes" : "tcj 4/5/2019 16:23" },
+	"instance" : {
+		"accessType" : "tcj 4/5/2019 16:29",
+		"accessType:" : "tcj 4/5/2019 16:29",
+		"approvalPrompt" : "tcj 4/5/2019 16:29",
+		"approvalPrompt:" : "tcj 4/5/2019 16:29",
+		"authenticationUrl" : "tcj 4/5/2019 16:29",
+		"authenticationUrlWithState:" : "tcj 4/5/2019 16:34",
+		"beOfflineAccessType" : "tcj 4/5/2019 16:29",
+		"beOnlineAccessType" : "tcj 4/5/2019 16:29",
+		"forceApprovalPrompt" : "tcj 4/5/2019 16:29",
+		"getUserData" : "tcj 4/8/2019 15:44",
+		"handleAuthenticationCallback:" : "tcj 4/8/2019 16:27",
+		"handleTokenRefresh" : "tcj 4/8/2019 16:27",
+		"initialize" : "tcj 4/5/2019 16:29",
+		"isForceApprovalPrompt" : "tcj 4/5/2019 17:08",
+		"isOfflineAccessType" : "tcj 4/5/2019 17:08" } }

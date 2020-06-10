@@ -1,0 +1,15 @@
+{
+	"category" : "WebClientOAuth2-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 4/5/2019 16:28",
+	"instvars" : [
+		"accessType",
+		"approvalPrompt" ],
+	"name" : "WCGoogleOAuth2Session",
+	"pools" : [
+		 ],
+	"super" : "WCOAuth2Session",
+	"type" : "normal" }

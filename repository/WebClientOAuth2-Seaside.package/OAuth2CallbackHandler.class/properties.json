@@ -1,0 +1,14 @@
+{
+	"category" : "WebClientOAuth2-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 6/10/2020 04:55",
+	"instvars" : [
+		 ],
+	"name" : "OAuth2CallbackHandler",
+	"pools" : [
+		 ],
+	"super" : "WARequestHandler",
+	"type" : "normal" }
